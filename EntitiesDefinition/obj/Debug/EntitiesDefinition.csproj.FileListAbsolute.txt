@@ -1,0 +1,7 @@
+D:\Projects\EntitiesDefinition\EntitiesDefinition\bin\Debug\EntitiesDefinition.exe.config
+D:\Projects\EntitiesDefinition\EntitiesDefinition\bin\Debug\EntitiesDefinition.exe
+D:\Projects\EntitiesDefinition\EntitiesDefinition\bin\Debug\EntitiesDefinition.pdb
+D:\Projects\EntitiesDefinition\EntitiesDefinition\obj\Debug\EntitiesDefinition.csprojAssemblyReference.cache
+D:\Projects\EntitiesDefinition\EntitiesDefinition\obj\Debug\EntitiesDefinition.csproj.CoreCompileInputs.cache
+D:\Projects\EntitiesDefinition\EntitiesDefinition\obj\Debug\EntitiesDefinition.exe
+D:\Projects\EntitiesDefinition\EntitiesDefinition\obj\Debug\EntitiesDefinition.pdb
